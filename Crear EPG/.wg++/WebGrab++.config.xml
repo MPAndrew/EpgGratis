@@ -1,0 +1,260 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>/volume3/TVheadend/epg/epgsinrex.xml</filename>
+  <mode>m</mode>
+  <proxy></proxy>
+  <postprocess grab="y" run="y">rex</postprocess>
+  <user-agent></user-agent>
+  <logging>on</logging>
+  <retry time-out="10">3</retry>
+  <timespan>6</timespan>
+  <update>i</update>
+	<channel update="i" site="plus.es" site_id="MV3" xmltv_id="#0">#0</channel>>
+	<channel update="i" site="plus.es" site_id="MV3" xmltv_id="#0 HD">#0 HD</channel>>
+    <channel update="i" site="plus.es" site_id="VAMOSD" xmltv_id="#VAMOS">#VAMOS</channel>>
+	<channel update="i" site="plus.es" site_id="VAMOSD" xmltv_id="#VAMOS HD">#VAMOS HD</channel>>
+    <channel update="i" site="plus.es" site_id="13TV" xmltv_id="13TV">13 TV</channel>
+    <channel update="i" site="plus.es" site_id="3_24" xmltv_id="3/24">3/24</channel>
+	<channel update="i" site="plus.es" site_id="24H" xmltv_id="24 HORAS">24 HORAS</channel>
+	<channel update="i" site="plus.es" site_id="24H" xmltv_id="24h">24h</channel>	
+    <channel update="i" site="plus.es" site_id="TQ1" xmltv_id="ALQUILER 1">ALQUILER 1</channel>
+	<channel update="i" site="plus.es" site_id="HDTQ10" xmltv_id="ALQUILER HD">ALQUILER HD</channel>
+	<channel update="i" site="plus.es" site_id="HDTQ2" xmltv_id="ALQUILER 2 HD">ALQUILER 2 HD</channel>
+    <channel update="i" site="plus.es" site_id="TQ2" xmltv_id="ALQUILER 2">ALQUILER 2</channel>
+    <channel update="i" site="plus.es" site_id="TQ3" xmltv_id="ALQUILER 3">ALQUILER 3</channel>
+    <channel update="i" site="plus.es" site_id="TQ4" xmltv_id="ALQUILER 4">ALQUILER 4</channel>
+    <channel update="i" site="plus.es" site_id="TQ5" xmltv_id="ALQUILER 5">ALQUILER 5</channel>
+    <channel update="i" site="plus.es" site_id="TQ6" xmltv_id="ALQUILER 6">ALQUILER 6</channel>
+	<channel update="i" site="plus.es" site_id="TQX1" xmltv_id="ALQUILER X">ALQUILER X</channel>
+	<channel update="i" site="plus.es" site_id="TQX2" xmltv_id="ALQUILER XX">ALQUILER XX</channel>
+	<channel update="i" site="plus.es" site_id="TQX3" xmltv_id="ALQ XXHARD">ALQ XXHARD</channel>
+	<channel update="i" site="plus.es" site_id="TQY1" xmltv_id="ALQUILER XY">ALQUILER XY</channel>
+    <channel update="i" site="plus.es" site_id="ANDATV" xmltv_id="ANDALUCÍA TV">ANDALUCÍA TV</channel>
+    <channel update="i" site="plus.es" site_id="ANDATV" xmltv_id="AndaluciaTV">AndaluciaTV</channel>
+	<channel update="i" site="plus.es" site_id="TQMLTX" xmltv_id="MULTI-X 1">MULTI-X 1</channel>
+	<channel update="i" site="plus.es" site_id="TQMLTX" xmltv_id="MULTI-X 2">MULTI-X 2</channel>
+	<channel update="i" site="plus.es" site_id="TQMLTX" xmltv_id="MULTI-X 3">MULTI-X 3</channel>
+    <channel update="i" site="plus.es" site_id="BIOGRA" xmltv_id="A&amp;E">A&amp;E</channel>
+    <channel update="i" site="plus.es" site_id="ALJAZE" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="plus.es" site_id="AMC" xmltv_id="AMC">AMC</channel>
+	<channel update="i" site="plus.es" site_id="AMC" xmltv_id="AMC HD">AMC HD</channel>
+    <channel update="i" site="plus.es" site_id="A3" xmltv_id="ANTENA 3">ANTENA 3</channel>
+	<channel update="i" site="plus.es" site_id="A3" xmltv_id="ANTENA 3 HD">ANTENA 3 HD</channel>
+    <channel update="i" site="plus.es" site_id="A3" xmltv_id="antena3 HD">antena3 HD</channel>
+    <channel update="i" site="plus.es" site_id="ARAGON" xmltv_id="ARAGON TV INT">ARAGON TV INT</channel>
+	<channel update="i" site="plus.es" site_id="ARIRAN" xmltv_id="Arirang TV">Arirang TV</channel>
+    <channel update="i" site="plus.es" site_id="ATRESS" xmltv_id="ATRESERIES">ATRESERIES</channel>
+    <channel update="i" site="plus.es" site_id="ATRESS" xmltv_id="atreseries HD">atreseries HD</channel>
+    <channel update="i" site="plus.es" site_id="AXN" xmltv_id="AXN">AXN</channel>
+	<channel update="i" site="plus.es" site_id="AXN" xmltv_id="AXN HD">AXN HD</channel>
+    <channel update="i" site="plus.es" site_id="SET" xmltv_id="AXN WHITE">AXN WHITE</channel>
+	<channel update="i" site="plus.es" site_id="SET" xmltv_id="AXN WHITE HD">AXN WHITE HD</channel>
+    <channel update="i" site="plus.es" site_id="BARNA" xmltv_id="BAR TV">BAR TV</channel>
+    <channel update="i" site="plus.es" site_id="BABY" xmltv_id="BABY TV">BABY TV</channel>
+    <channel update="i" site="plus.es" site_id="BBC" xmltv_id="BBC World News Europe HD">BBC World News Europe HD</channel>
+    <channel update="i" site="plus.es" site_id="BELIGA" xmltv_id="BEIN LALIGA">BEIN LALIGA</channel>
+    <channel update="i" site="plus.es" site_id="BELIG1" xmltv_id="LaLiga123TVM5">LaLiga123TVM5</channel>
+	<channel update="i" site="plus.es" site_id="BELIG2" xmltv_id="LaLiga123TVM6">LaLiga123TVM6</channel>
+	<channel update="i" site="plus.es" site_id="BELIG3" xmltv_id="LaLiga123TVM7">LaLiga123TVM7</channel>
+	<channel update="i" site="plus.es" site_id="BELIG4" xmltv_id="LaLiga123TVM8">LaLiga123TVM8</channel>
+	<channel update="i" site="plus.es" site_id="BELIG5" xmltv_id="BEINLALIGA5">BEINLALIGA5</channel>
+	<channel update="i" site="plus.es" site_id="BELIG6" xmltv_id="BEINLALIGA6">BEINLALIGA6</channel>
+	<channel update="i" site="plus.es" site_id="BELIG7" xmltv_id="BEINLALIGA7">BEINLALIGA7</channel>
+	<channel update="i" site="plus.es" site_id="BELIG8" xmltv_id="BEINLALIGA8">BEINLALIGA8</channel>
+    <channel update="i" site="plus.es" site_id="BEMAD" xmltv_id="BeMad tv HD">BeMad tv HD</channel>
+    <channel update="i" site="plus.es" site_id="BEMAD" xmltv_id="BE MAD">BE MAD</channel>	
+    <channel update="i" site="plus.es" site_id="BIOGRA" xmltv_id="BLAZE">BLAZE</channel>
+    <channel update="i" site="plus.es" site_id="BTV" xmltv_id="Betevé">Betevé</channel>
+    <channel update="i" site="plus.es" site_id="BL" xmltv_id="Bloomberg Europe TV">Bloomberg Europe TV</channel>
+    <channel update="i" site="plus.es" site_id="BOING" xmltv_id="BOING">BOING</channel>
+    <channel update="i" site="plus.es" site_id="BOING" xmltv_id="Boing">Boing</channel>	
+    <channel update="i" site="plus.es" site_id="CL13" xmltv_id="CALLE 13">CALLE 13</channel>
+	<channel update="i" site="plus.es" site_id="CL13" xmltv_id="CALLE 13 HD">CALLE 13 HD</channel>   
+    <channel update="i" site="plus.es" site_id="CACOC" xmltv_id="CANAL COCINA">CANAL COCINA</channel>
+	<channel update="i" site="plus.es" site_id="DECASA" xmltv_id="CANAL DECASA">CANAL DECASA</channel>
+    <channel update="i" site="plus.es" site_id="EXTRE" xmltv_id="EXTREMADURA SAT">EXTREMADURA SAT</channel>
+	<channel update="i" site="plus.es" site_id="ODISEA" xmltv_id="CANAL ODISEA">CANAL ODISEA</channel>
+	<channel update="i" site="plus.es" site_id="ORBE21" xmltv_id="CANAL ORBE21">CANAL ORBE21</channel>
+    <channel update="i" site="plus.es" site_id="PANDA" xmltv_id="CANAL PANDA">CANAL PANDA</channel>
+    <channel update="i" site="plus.es" site_id="ANTV" xmltv_id="CANAL SUR HD">CANAL SUR HD</channel>
+    <channel update="i" site="plus.es" site_id="ANTV" xmltv_id="CANAL SUR A.">CANAL SUR A.</channel>
+    <channel update="i" site="plus.es" site_id="ANTV" xmltv_id="CanalSurHD">CanalSurHD</channel>
+    <channel update="i" site="plus.es" site_id="CAZPES" xmltv_id="CAZAyPESCA">CAZAyPESCA</channel>
+	<channel update="i" site="plus.es" site_id="CAZPES" xmltv_id="CAZAyPESCA HD">CAZAyPESCA HD</channel>
+    <channel update="i" site="plus.es" site_id="CLANTV" xmltv_id="Clan HD">Clan HD</channel>
+    <channel update="i" site="plus.es" site_id="CLANTV" xmltv_id="CLAN  TVE">CLAN  TVE</channel>	
+    <channel update="i" site="plus.es" site_id="CLASSI" xmltv_id="CLASSICA">CLASSICA</channel>
+    <channel update="i" site="plus.es" site_id="NBC" xmltv_id="CNBC Europe">CNBC Europe</channel>
+    <channel update="i" site="plus.es" site_id="CNCWOR" xmltv_id="CNC World">CNC World</channel>
+    <channel update="i" site="plus.es" site_id="CNN" xmltv_id="CNN Int.">CNN Int.</channel>
+    <channel update="i" site="plus.es" site_id="PCM" xmltv_id="COMEDYCENTRAL">COMEDYCENTRAL</channel>
+	<channel update="i" site="plus.es" site_id="PCM" xmltv_id="COMEDYCENTRALHD">COMEDYCENTRALHD</channel>
+    <channel update="i" site="plus.es" site_id="COSMO" xmltv_id="COSMO">COSMO</channel>
+	<channel update="i" site="plus.es" site_id="COSMO" xmltv_id="COSMO HD">COSMO HD</channel>
+    <channel update="i" site="plus.es" site_id="CYM" xmltv_id="CRIMEN+INVES">CRIMEN+INVES</channel>
+    <channel update="i" site="plus.es" site_id="C4" xmltv_id="CUATRO">CUATRO</channel>
+	<channel update="i" site="plus.es" site_id="CUBAV" xmltv_id="Cubavision Internacional">Cubavision Internacional</channel>
+	<channel update="i" site="plus.es" site_id="C4" xmltv_id="CUATRO HD">CUATRO HD</channel>
+	<channel update="i" site="plus.es" site_id="C4" xmltv_id="Cuatro HD">Cuatro HD</channel>
+    <channel update="i" site="plus.es" site_id="DARK" xmltv_id="Dark">Dark</channel>    
+    <channel update="i" site="plus.es" site_id="DCR" xmltv_id="DISCOVERY">DISCOVERY</channel>
+    <channel update="i" site="plus.es" site_id="DCRMAX" xmltv_id="DMAX">DMAX</channel>
+    <channel update="i" site="plus.es" site_id="DCH" xmltv_id="DISNEY CH">DISNEY CH</channel>
+	<channel update="i" site="plus.es" site_id="DCH" xmltv_id="DISNEY CH HD">DISNEY CH HD</channel>
+    <channel update="i" site="plus.es" site_id="PLAYDC" xmltv_id="DISNEY JR">DISNEY JR</channel>
+    <channel update="i" site="plus.es" site_id="DCHXD" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel update="i" site="plus.es" site_id="DIVINI" xmltv_id="DIVINITY">DIVINITY</channel>
+    <channel update="i" site="plus.es" site_id="DIVINI" xmltv_id="Divinity">Divinity</channel>
+    <channel update="i" site="plus.es" site_id="DKISS" xmltv_id="DKISS">DKISS</channel>
+    <channel update="i" site="plus.es" site_id="ENERGY" xmltv_id="ENERGY">ENERGY</channel>
+    <channel update="i" site="plus.es" site_id="ENERGY" xmltv_id="Energy">Energy</channel>
+    <channel update="i" site="plus.es" site_id="ESP3" xmltv_id="Esport 3">Esport 3</channel>
+    <channel update="i" site="plus.es" site_id="ETB1" xmltv_id="ETB 1">ETB 1</channel>
+    <channel update="i" site="plus.es" site_id="ENW" xmltv_id="EURONEWS FRENCH SD">EURONEWS FRENCH SD</channel>
+	<channel update="i" site="plus.es" site_id="ESP" xmltv_id="EUROSPORT 1">EUROSPORT 1</channel>
+    <channel update="i" site="plus.es" site_id="ESP" xmltv_id="EUROSPORT1HD">EUROSPORT1HD</channel>
+    <channel update="i" site="plus.es" site_id="ESP2" xmltv_id="EUROSPORT 2">EUROSPORT 2</channel>
+    <channel update="i" site="plus.es" site_id="EWTN" xmltv_id="EWTN">EWTN</channel>
+    <channel update="i" site="plus.es" site_id="FDFIC" xmltv_id="FDF">FDF</channel>
+    <channel update="i" site="plus.es" site_id="FOXGE" xmltv_id="FOX">FOX</channel>
+	<channel update="i" site="plus.es" site_id="FOXGE" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="plus.es" site_id="FOXCR" xmltv_id="FOX LIFE">FOX LIFE</channel>
+	<channel update="i" site="plus.es" site_id="FOXCR" xmltv_id="FOX LIFE HD">FOX LIFE HD</channel>
+    <channel update="i" site="plus.es" site_id="FOXNWS" xmltv_id="FOX NEWS">FOX NEWS</channel>
+    <channel update="i" site="plus.es" site_id="FUTREP" xmltv_id="Futbol Replay">Fútbol Replay</channel>
+    <channel update="i" site="plus.es" site_id="FRA EN" xmltv_id="France 24 (in English)">France 24 (in English)</channel>  
+	<channel update="i" site="plus.es" site_id="FRA EN" xmltv_id="France 24 (en Français)">France 24 (en Français)</channel>  
+	<channel update="i" site="plus.es" site_id="FRA EN" xmltv_id="France 24 (in Arabic)">France 24 (in Arabic)</channel>
+    <channel update="i" site="plus.es" site_id="TVG" xmltv_id="TVGA">TVGA</channel>
+    <channel update="i" site="plus.es" site_id="GARAGE" xmltv_id="Garage TV">Garage TV</channel>
+    <channel update="i" site="plus.es" site_id="GOL" xmltv_id="GOL">GOL</channel>
+    <channel update="i" site="plus.es" site_id="HIST" xmltv_id="HISTORIA">HISTORIA</channel>
+    <channel update="i" site="plus.es" site_id="HOLLYW" xmltv_id="HOLLYWOOD">HOLLYWOOD</channel>
+	<channel update="i" site="plus.es" site_id="HOLLYW" xmltv_id="HOLLYWOODHD">HOLLYWOODHD</channel>
+    <channel update="i" site="plus.es" site_id="IBERAL" xmltv_id="IBERALIA TV">IBERALIA TV</channel>
+    <channel update="i" site="plus.es" site_id="INTECO" xmltv_id="Intereconomía TV">Intereconomía TV</channel>
+    <channel update="i" site="plus.es" site_id="DKISS" xmltv_id="Kiss tv">Kiss tv</channel>
+    <channel update="i" site="plus.es" site_id="TVE" xmltv_id="LA 1">LA 1</channel>
+	<channel update="i" site="plus.es" site_id="TVE" xmltv_id="LA 1 HD">LA 1 HD</channel>
+	<channel update="i" site="plus.es" site_id="TVE" xmltv_id="La 1 HD">La 1 HD</channel>	
+    <channel update="i" site="plus.es" site_id="LA2" xmltv_id="La 2 HD">La 2 HD</channel>
+	<channel update="i" site="plus.es" site_id="LA2" xmltv_id="LA 2">LA 2</channel>
+    <channel update="i" site="plus.es" site_id="SEXTA" xmltv_id="LA SEXTA">LA SEXTA</channel>
+	<channel update="i" site="plus.es" site_id="SEXTA" xmltv_id="LA SEXTA HD">LA SEXTA HD</channel>
+	<channel update="i" site="plus.es" site_id="SEXTA" xmltv_id="laSexta HD">laSexta HD</channel>	
+    <channel update="i" site="plus.es" site_id="LIGA2" xmltv_id="LALIGA123TV">LALIGA123TV</channel>
+	<channel update="i" site="plus.es" site_id="LIGBAR" xmltv_id="LALIGATV BAR">LALIGATV BAR</channel>
+	<channel update="i" site="plus.es" site_id="LIGBA1" xmltv_id="LALIGATVBAR1">LALIGATVBAR1</channel>
+	<channel update="i" site="plus.es" site_id="LIGBA2" xmltv_id="LALIGATVBAR2">LALIGATVBAR2</channel>
+	<channel update="i" site="plus.es" site_id="LIG21" xmltv_id="LaLiga123TVM1">LaLiga123TVM1</channel>
+	<channel update="i" site="plus.es" site_id="LIG22" xmltv_id="LaLiga123TVM2">LaLiga123TVM2</channel>
+	<channel update="i" site="plus.es" site_id="LIG23" xmltv_id="LaLiga123TVM3">LaLiga123TVM3</channel>
+	<channel update="i" site="plus.es" site_id="LIG24" xmltv_id="LaLiga123TVM4">LaLiga123TVM4</channel>
+    <channel update="i" site="plus.es" site_id="LIBDIG" xmltv_id="Libertad Digital TV">Libertad Digital TV</channel>
+	<channel update="i" site="plus.es" site_id="CCLUB" xmltv_id="LTC">LTC</channel>
+    <channel update="i" site="plus.es" site_id="MEGA" xmltv_id="MEGA">MEGA</channel>
+    <channel update="i" site="plus.es" site_id="MEGA" xmltv_id="mega">mega</channel>	
+    <channel update="i" site="plus.es" site_id="CPACCI" xmltv_id="M. ACCION">M. ACCION</channel>
+	<channel update="i" site="plus.es" site_id="CPACCI" xmltv_id="M. ACCION HD">M. ACCION HD</channel>
+	<channel update="i" site="plus.es" site_id="CPACCI" xmltv_id="M. ACCI©N HD">M. ACCI©N HD</channel>
+    <channel update="i" site="plus.es" site_id="DCESP" xmltv_id="M. Cine Español">M. Cine Español</channel>
+    <channel update="i" site="plus.es" site_id="DCESP" xmltv_id="M. Cine Espaæol">M. Cine Espaæol</channel>
+	<channel update="i" site="plus.es" site_id="CPXTRA" xmltv_id="M.CineDocRoll">M.CineDocRoll</channel>
+	<channel update="i" site="plus.es" site_id="CPCOME" xmltv_id="M. COMEDIA">M. COMEDIA</channel>	
+	<channel update="i" site="plus.es" site_id="CPCOME" xmltv_id="M.COMEDIA HD">M.COMEDIA HD</channel>
+    <channel update="i" site="plus.es" site_id="CPDEP" xmltv_id="M. DEPORTES">M. DEPORTES</channel>
+	<channel update="i" site="plus.es" site_id="CPDEP" xmltv_id="M. DEPORTESHD">M. DEPORTESHD</channel>
+	<channel update="i" site="plus.es" site_id="ARTHUR" xmltv_id="M. DEPORTES1">M. DEPORTES1</channel>
+	<channel update="i" site="plus.es" site_id="ARTHUR" xmltv_id="M.DEPORTES1HD">M.DEPORTES1HD</channel>
+	<channel update="i" site="plus.es" site_id="ARTHUR" xmltv_id="M.WIMBLEDONHD">M.WIMBLEDONHD</channel>	
+    <channel update="i" site="plus.es" site_id="USOP2" xmltv_id="M. DEPORTES2">M. DEPORTES2</channel>
+	<channel update="i" site="plus.es" site_id="USOP3" xmltv_id="M. DEPORTES3">M. DEPORTES3</channel>
+	<channel update="i" site="plus.es" site_id="USOP11" xmltv_id="M. DEPORTES4">M. DEPORTES4</channel>
+	<channel update="i" site="plus.es" site_id="MULTI8" xmltv_id="M. DEPORTES5">M. DEPORTES5</channel>
+	<channel update="i" site="plus.es" site_id="MULTI6" xmltv_id="M. DEPORTES6">M. DEPORTES6</channel>
+	<channel update="i" site="plus.es" site_id="MDISNE" xmltv_id="M. DISNEY">M. DISNEY</channel>
+	<channel update="i" site="plus.es" site_id="CPCOLE" xmltv_id="M. DRAMA">M. DRAMA</channel>
+    <channel update="i" site="plus.es" site_id="CPCOLE" xmltv_id="M. DRAMA HD">M. DRAMA HD</channel>
+    <channel update="i" site="plus.es" site_id="MV1" xmltv_id="M.ESTRENOS">M.ESTRENOS</channel>
+	<channel update="i" site="plus.es" site_id="MV1" xmltv_id="M.ESTRENOSHD">M.ESTRENOSHD</channel>
+    <channel update="i" site="plus.es" site_id="MFAMA" xmltv_id="M. FAMA 24H">M. FAMA 24H</channel>
+    <channel update="i" site="plus.es" site_id="CPFUT" xmltv_id="M. FUTBOL">M. FUTBOL</channel>
+    <channel update="i" site="plus.es" site_id="MVF1" xmltv_id="M.FORMULA1">M.FORMULA1</channel>
+	<channel update="i" site="plus.es" site_id="MVF1" xmltv_id="M.FORMULA1HD">M.FORMULA1HD</channel>
+    <channel update="i" site="plus.es" site_id="GOLF%2B" xmltv_id="M. GOLF">M. GOLF</channel>
+	<channel update="i" site="plus.es" site_id="GOLF%2B" xmltv_id="M. GOLF HD">M. GOLF HD</channel>
+    <channel update="i" site="plus.es" site_id="CHAPIO" xmltv_id="M.LCAMPEONES">M.LCAMPEONES</channel>
+	<channel update="i" site="plus.es" site_id="CHAP1" xmltv_id="M.LCAMPEON1">M.LCAMPEON1</channel>
+	<channel update="i" site="plus.es" site_id="CHAP2" xmltv_id="M.LCAMPEON2">M.LCAMPEON2</channel>
+	<channel update="i" site="plus.es" site_id="CHAP3" xmltv_id="M.LCAMPEON3">M.LCAMPEON3</channel>
+	<channel update="i" site="plus.es" site_id="CHAP4" xmltv_id="M.LCAMPEON4">M.LCAMPEON4</channel>
+	<channel update="i" site="plus.es" site_id="CHAP5" xmltv_id="M.LCAMPEON5">M.LCAMPEON5</channel>
+	<channel update="i" site="plus.es" site_id="CHAP6" xmltv_id="M.LCAMPEON6">M.LCAMPEON6</channel>
+	<channel update="i" site="plus.es" site_id="CHAP7" xmltv_id="M.LCAMPEON7">M.LCAMPEON7</channel>
+	<channel update="i" site="plus.es" site_id="CHAP8" xmltv_id="M.LCAMPEON8">M.LCAMPEON8</channel>
+	<channel update="i" site="plus.es" site_id="CPPART" xmltv_id="M.Partidazo">M.Partidazo</channel>
+	<channel update="i" site="plus.es" site_id="CPPART" xmltv_id="M.PartidazoHD">M.PartidazoHD</channel>
+	<channel update="i" site="plus.es" site_id="CPSER" xmltv_id="M. SERIES">M. SERIES</channel>
+    <channel update="i" site="plus.es" site_id="CPSER" xmltv_id="M. SERIES HD">M. SERIES HD</channel>
+	<channel update="i" site="plus.es" site_id="MV2" xmltv_id="M. SERIESMANIA">M. SERIESMANIA</channel>
+    <channel update="i" site="plus.es" site_id="MV2" xmltv_id="M.Seriesmania HD">M.Seriesmania HD</channel>
+    <channel update="i" site="plus.es" site_id="MEZOHD" xmltv_id="MEZZO LIVE HD">MEZZO LIVE HD</channel>
+    <channel update="i" site="plus.es" site_id="MEZZO" xmltv_id="MEZZO">MEZZO</channel>
+    <channel update="i" site="plus.es" site_id="MTV" xmltv_id="MTV ESPAÑA">MTV ESPAÑA</channel>
+	<channel update="i" site="plus.es" site_id="M2" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
+	<channel update="i" site="plus.es" site_id="CPEV" xmltv_id="MULTIDEPORTE">MULTIDEPORTE</channel>
+    <channel update="i" site="plus.es" site_id="NATGEO" xmltv_id="NAT GEO">NAT GEO</channel>
+	<channel update="i" site="plus.es" site_id="NATGEO" xmltv_id="NAT GEO HD">NAT GEO HD</channel>
+	<channel update="i" site="plus.es" site_id="NATGW" xmltv_id="NAT GEO WILD">NAT GEO WILD</channel>
+    <channel update="i" site="plus.es" site_id="NATGW" xmltv_id="NG WILD HD">NG WILD HD</channel>
+	<channel update="i" site="plus.es" site_id="NHK" xmltv_id="NHK WORLD-JPN">NHK WORLD-JPN</channel>
+    <channel update="i" site="plus.es" site_id="NEOX" xmltv_id="NEOX">NEOX</channel>
+    <channel update="i" site="plus.es" site_id="NEOX" xmltv_id="Neox">Neox</channel>
+    <channel update="i" site="plus.es" site_id="NICK" xmltv_id="NICKELODEON">NICKELODEON</channel>
+	<channel update="i" site="plus.es" site_id="NICK" xmltv_id="NICKELODEONHD">NICKELODEONHD</channel>
+    <channel update="i" site="plus.es" site_id="NICKJR" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="plus.es" site_id="NONSTP" xmltv_id="Non Stop People">Non Stop People</channel>
+    <channel update="i" site="plus.es" site_id="NOVA" xmltv_id="NOVA">NOVA</channel>
+	<channel update="i" site="plus.es" site_id="NOVA" xmltv_id="nova">nova</channel> 
+    <channel update="i" site="plus.es" site_id="PARCH" xmltv_id="PARAMOUNT">PARAMOUNT</channel>	
+    <channel update="i" site="plus.es" site_id="PARCH" xmltv_id="PARAMOUNT NETWORK">PARAMOUNT NETWORK</channel>
+	<channel update="i" site="plus.es" site_id="PBOY" xmltv_id="PLAYBOY TV">PLAYBOY TV</channel>
+    <channel update="i" site="plus.es" site_id="REALM" xmltv_id="Real Madrid TV HD">Real Madrid TV HD</channel>
+    <channel update="i" site="plus.es" site_id="REALM" xmltv_id="R. MADRID TV">R. MADRID TV</channel>
+	<channel update="i" site="plus.es" site_id="RUSSIA" xmltv_id="RT Esp">RT Esp</channel>
+    <channel update="i" site="plus.es" site_id="RUSSIA" xmltv_id="RT Esp HD">RT Esp HD</channel>
+	<channel update="i" site="plus.es" site_id="RTFRHD" xmltv_id="RT France HD">RT France HD</channel>
+	<channel update="i" site="plus.es" site_id="SKYNW" xmltv_id="Sky News Intl">Sky News Intl</channel>
+    <channel update="i" site="plus.es" site_id="SUNDAN" xmltv_id="SUNDANCE TV">SUNDANCE TV</channel>
+    <channel update="i" site="plus.es" site_id="SCI-FI" xmltv_id="SYFY">SYFY</channel>
+	<channel update="i" site="plus.es" site_id="SCI-FI" xmltv_id="SYFY HD">SYFY HD</channel>
+    <channel update="i" site="plus.es" site_id="TCM" xmltv_id="TCM">TCM</channel>
+	<channel update="i" site="plus.es" site_id="TCM" xmltv_id="TCM HD">TCM HD</channel>
+    <channel update="i" site="plus.es" site_id="T5" xmltv_id="TELECINCO">TELECINCO</channel>
+	<channel update="i" site="plus.es" site_id="T5" xmltv_id="TELECINCO HD">TELECINCO HD</channel>
+	<channel update="i" site="plus.es" site_id="T5" xmltv_id="Telecinco HD">Telecinco HD</channel>
+	<channel update="i" site="plus.es" site_id="TLESUR" xmltv_id="TELESUR HD">TELESUR HD</channel>
+    <channel update="i" site="plus.es" site_id="TDEP" xmltv_id="tdp HD">tdp HD</channel>
+	<channel update="i" site="plus.es" site_id="TDEP" xmltv_id="TELEDEPORTE">TELEDEPORTE</channel>
+    <channel update="i" site="plus.es" site_id="TEN" xmltv_id="Ten">Ten</channel>
+	<channel update="i" site="plus.es" site_id="CFERIA" xmltv_id="TOROS">TOROS</channel>
+    <channel update="i" site="plus.es" site_id="CFERIA" xmltv_id="TOROS HD">TOROS HD</channel>
+    <channel update="i" site="plus.es" site_id="13TV" xmltv_id="TRECE">TRECE</channel>
+    <channel update="i" site="plus.es" site_id="TNT" xmltv_id="TNT">TNT</channel>
+	<channel update="i" site="plus.es" site_id="TNT" xmltv_id="TNT HD">TNT HD</channel>
+    <channel update="i" site="plus.es" site_id="C33" xmltv_id="Canal 33">Super 3/33</channel>
+    <channel update="i" site="plus.es" site_id="TVC" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="plus.es" site_id="TV3CAT" xmltv_id="TV3 CAT">TV3 CAT</channel>
+    <channel update="i" site="plus.es" site_id="TV5" xmltv_id="TV5MONDE EUROPE">TV5MONDE EUROPE</channel>
+	<channel update="i" site="plus.es" site_id="TVREC" xmltv_id="TV Record SD">TV Record SD</channel>
+	<channel update="i" site="plus.es" site_id="VJR" xmltv_id="VIAJAR">VIAJAR</channel>
+    <channel update="i" site="plus.es" site_id="VJR" xmltv_id="VIAJAR HD">VIAJAR HD</channel>
+    <channel update="i" site="plus.es" site_id="VH1" xmltv_id="VH1">VH1</channel>
+  <!-- ALEMANES -->   
+    <channel update="i" site="tvtoday.de" site_id="15" xmltv_id="ServusTV HD Deutschland">ServusTV HD Deutschland</channel>
+    <channel update="i" site="tvtoday.de" site_id="29" xmltv_id="SPORT1">SPORT1</channel>
+    <channel update="i" site="zdf.de" site_id="ZDFinfo" xmltv_id="ZDFinfo HD">ZDFinfo HD</channel>
+</settings>
